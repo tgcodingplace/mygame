@@ -1,4 +1,4 @@
-print("Hello from GitHub")
+print("Hello from another place ....")
 
 x = 20
 
