@@ -1,7 +1,4 @@
 print("Hello from GitHub")
-print("lets get ready ....")
-
-print("weiter gehts ....")
 
 x = 20
 
